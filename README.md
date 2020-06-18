@@ -2,7 +2,7 @@
 
 ## About
 
-This repository is for Udacity's Data Science Nanodegree blog post project, and the subject is COVID-19 cases in California. It includes a JupyterLab notebook that describes the entire process of gathering, cleaning, analyzing, and visualizing the data, along with the original dataset and an accompanying codebook.
+This repository is for Udacity's Data Science Nanodegree blog post project, and the subject is COVID-19 cases in California. It includes a JupyterLab notebook that describes the entire process of gathering, cleaning, analyzing, and visualizing the data, along with the original dataset and an accompanying codebook. The corresponding Medium blog post can be found [here](https://medium.com/@jrtran/covid-19-in-california-a-county-by-county-overview-eee334f8a159).
 
 ## Installation
 
